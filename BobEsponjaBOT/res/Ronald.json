@@ -1,0 +1,11 @@
+{
+  "name": "Rônald Macário",
+  "version": "1.0",
+  "gameTypes": "melee, classic, 1v1",
+  "authors": "Rônald Macário",
+  "description": "HEHEHEHEHE",
+  "homepage": "",
+  "countryCodes": "br",
+  "platform": "JVM",
+  "programmingLang": "Kotlin 1.6.20"
+}
